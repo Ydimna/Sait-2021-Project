@@ -81,12 +81,13 @@ h3 {
 }
 #days {
   position: absolute;
-  top: 20.5vh;
+  top: 23.5vh;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   font-size: 18px;
   left: 4%;
   color: #034fa5;
+  width: 16vw;
 }
 
 #hom {
