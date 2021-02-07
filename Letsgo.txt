@@ -2,3 +2,4 @@ LetsGo Agency forms are the first three pages provided by the Proffessor.
 The task request the creation of main, contact, and register page in order to practice HTML and CSS.
 A lot more improvement will be applied by the end of the training
 The final version will be ready by the end of the calss work.
+It is a fast track training and I just love it
