@@ -21,8 +21,8 @@
   /* margin: 50px 595px 0; */
   /* display: flex; */
   top: 17vh;
-  left: 69vw;
-  width: 10.8vw;
+  left: 65vw;
+  width: 15vw;
   margin: 0 auto;
 }
 
@@ -47,6 +47,7 @@ h3 {
   font-size: 25px;
   letter-spacing: 0.3rem;
   color: #034fa5;
+  width: 15vw;
 }
 
 /* End of styling phone section */
