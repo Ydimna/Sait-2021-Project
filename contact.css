@@ -20,7 +20,7 @@
   display: inline-block;
   /* margin: 50px 595px 0; */
   /* display: flex; */
-  top: 17vh;
+  top: 16vh;
   left: 65vw;
   width: 15vw;
   margin: 0 auto;
@@ -42,8 +42,8 @@ h3 {
 
 #cont {
   position: absolute;
-  top: 5vh;
-  margin-left: 1.5vw;
+  top: 6.8vh;
+  margin-left: 2.5vw;
   font-size: 25px;
   letter-spacing: 0.3rem;
   color: #034fa5;
@@ -55,16 +55,16 @@ h3 {
 #getme {
   position: relative;
   display: inline-block;
-  left: 57.5vw;
+  left: 50vw;
   top: 26vh;
-  width: 11.5vw;
+  width: 12.5vw;
   max-width: 720px;
   margin: 0 auto;
 }
 #nm {
   position: absolute;
-  top: 5.4vh;
-  left: 1.5vw;
+  top: 6.4vh;
+  left: 1.9vw;
   font-size: 20px;
   letter-spacing: 0.2rem;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -82,7 +82,7 @@ h3 {
 }
 #days {
   position: absolute;
-  top: 23.5vh;
+  top: 25.5vh;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   font-size: 18px;
