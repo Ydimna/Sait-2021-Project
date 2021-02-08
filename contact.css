@@ -169,13 +169,6 @@ h1 {
   font-weight: 700;
 }
 
-span {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif, Ubuntu, Cantarell,
-    "Open Sans", "Helvetica Neue", sans-serif;
-  font-size: 22px;
-}
-
 #facebook {
   position: absolute;
   top: 1rem;
@@ -258,7 +251,7 @@ form {
   border-radius: 0.7rem;
   pad: 2rem;
   width: 42vw;
-  margin: 5vh 50vw 0 auto;
+  margin: 10vh 50vw 0 auto;
   background-color: #d3e9fd;
   display: flex;
   max-width: 70%;
